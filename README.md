@@ -18,7 +18,6 @@ Este projeto é uma Pokédex simples e funcional que consome dados da API públi
 
 ## Estrutura do Projeto
 
-
 ## Como usar
 
 1. Clone ou baixe este repositório.
@@ -37,6 +36,9 @@ Este projeto é uma Pokédex simples e funcional que consome dados da API públi
 Projeto open-source para fins educacionais.
 
 ---
+
+[Visite Projeto no GitHub Pages - Pokedex](https://rafael-feitosa-santos.github.io/Pokedex)
+
 
 # Autores
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/127707049?v=4" width=115><br><sub>Rafael Feitosa Santos</sub>](https://github.com/Rafael-Feitosa-santos) | 
