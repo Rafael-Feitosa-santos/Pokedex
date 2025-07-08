@@ -1,4 +1,4 @@
-# Pokédex Real
+# Pokédex
 
 Este projeto é uma Pokédex simples e funcional que consome dados da API pública [PokéAPI](https://pokeapi.co/). 
 
